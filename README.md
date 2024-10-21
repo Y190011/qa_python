@@ -1,5 +1,5 @@
 # qa_python
-test_add_new_book_add_book_add_one_book                         - Проверка добавления новой книги в словарь без указания жанра
+test_add_new_book_add_one_book                                  - Проверка добавления новой книги в словарь без указания жанра
 test_set_book_genre_set_genre                                   - Проверка установки жанра книги для каждого жанра
 test_get_book_genre_return_book_genre                           - Получение жанра книги по имени книги
 test_get_books_with_specific_genre_return_books_list_for_genre  - Получение списка книг с определенными жанрами - положительный тест
